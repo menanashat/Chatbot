@@ -1,0 +1,156 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "question": "What is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm doing great!"
+    },
+    {
+      "question": "How are you doing mate?",
+      "answer": "I'm doing good"
+    },
+    {
+      "question": "What's up?^",
+      "answer": "Not much, what about you?"
+    },
+    {
+      "question": "Where can I subscribe?",
+      "answer": "Idk, subscribe to what?"
+    },
+    {
+      "question": "Say something funny",
+      "answer": "Your love life"
+    },
+    {
+      "question": "tell me more",
+      "answer": "I don't want to"
+    },
+    {
+      "question": "ok",
+      "answer": "ok?"
+    },
+    {
+      "question": "hallo",
+      "answer": "hallo"
+    },
+    {
+      "question": "can you help me",
+      "answer": "yes of course"
+    },
+    {
+      "question": "",
+      "answer": "Take an online course:"
+    },
+    {
+      "question": "Codecademy has a great interactive Python course for beginners. It walks you through writing code and provides immediate feedback.",
+      "answer": ""
+    },
+    {
+      "question": "Coursera, Udemy, and Edx have many in-depth Python courses taught by experts. These are more structured and have graded assignments.",
+      "answer": ""
+    },
+    {
+      "question": "DataCamp has data science focused Python courses that teach you to work with data and real-world examples.",
+      "answer": ""
+    },
+    {
+      "question": "Read books:",
+      "answer": "Automate the Boring Stuff with Python by Al Sweigart is a fun project-based book for beginners."
+    },
+    {
+      "question": "",
+      "answer": "Python Crash Course by Eric Matthes is a comprehensive hands-on guide for beginners."
+    },
+    {
+      "question": "",
+      "answer": "Fluent Python by Luciano Ramalho is an in-depth book for more experienced Pythonistas."
+    },
+    {
+      "question": "",
+      "answer": "Work through tutorials:"
+    },
+    {
+      "question": "The Python tutorial on python.org is the official tutorial to get started with the basics of the language.",
+      "answer": ""
+    },
+    {
+      "question": "Real Python has many in-depth Python tutorials on a variety of topics.",
+      "answer": ""
+    },
+    {
+      "question": "W3Schools has a simple Python tutorial with lots of code examples.",
+      "answer": ""
+    },
+    {
+      "question": "Practice what you learn:",
+      "answer": "Solve problems on sites like Hackerrank, Codewars and LeetCode. This will help cement your Python skills."
+    },
+    {
+      "question": "",
+      "answer": "Build projects. Create something fun that interests you using Python. Some project ideas include a web scraper, a dashboard app, a script to automate tasks, etc."
+    },
+    {
+      "question": "",
+      "answer": "Read other Python code. Studying how experienced Python developers write code will improve your skills."
+    },
+    {
+      "question": "",
+      "answer": "Ask questions:"
+    },
+    {
+      "question": "Post on sites like Stack Overflow and Reddit for help. The Python community is very active and helpful.",
+      "answer": ""
+    },
+    {
+      "question": "Reach out to local Python user groups and meetups. You'll find lots of experienced mentors!",
+      "answer": ""
+    },
+    {
+      "question": "Hope this gives you some good places to start! Let me know if you have any other questions. Learning to program in Python can be very rewarding. Good luck on your Python journey!",
+      "answer": ""
+    },
+    {
+      "question": "Share",
+      "answer": "Like"
+    },
+    {
+      "question": "Dislikeok",
+      "answer": "ok i want know how to learn python"
+    },
+    {
+      "question": "",
+      "answer": "sdaf"
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": "skio"
+    },
+    {
+      "question": "",
+      "answer": "ok i want know how to learn python"
+    },
+    {
+      "question": "ok i want know how to learn python",
+      "answer": "Codecademy has a great interactive Python course for beginners. It walks you through writing code and provides immediate feedback."
+    }
+  ]
+}
